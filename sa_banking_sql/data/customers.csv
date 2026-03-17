@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,city,province,account_type,income_band,monthly_income,join_date,is_active
+CUST00001,Refilwe,Khumalo,Cape Town,Western Cape,Cheque,Low (R0-R10k),4925.21,2019-02-16,1
+CUST00002,Kagiso,Mkhize,Cape Town,Western Cape,Savings,Middle (R10k-R30k),10635.65,2020-02-02,1
+CUST00003,Hannes,Sithole,Pretoria,Gauteng,Business,Middle (R10k-R30k),24026.5,2019-08-14,1
+CUST00004,Christiaan,van der Merwe,Johannesburg,Gauteng,Credit Card,Middle (R10k-R30k),13193.19,2022-01-18,1
+CUST00005,Anri,Botha,Bloemfontein,Free State,Credit Card,Low (R0-R10k),5659.49,2018-05-25,1
+CUST00006,Francois,Mthembu,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),29462.32,2018-04-09,1
+CUST00007,Nomsa,Naidoo,Bloemfontein,Free State,Savings,Middle (R10k-R30k),24091.44,2018-08-02,1
+CUST00008,Francois,Nxumalo,Cape Town,Western Cape,Business,High (R30k+),107983.53,2019-05-11,1
+CUST00009,Sifiso,Reddy,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),14190.14,2019-07-04,1
+CUST00010,Rajan,Sithole,Pretoria,Gauteng,Credit Card,Low (R0-R10k),5656.19,2018-03-12,1
+CUST00011,Johan,du Plessis,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),3224.7,2022-07-20,1
+CUST00012,Estelle,Khumalo,Bloemfontein,Free State,Credit Card,Low (R0-R10k),6494.62,2022-02-20,1
+CUST00013,Nisha,du Plessis,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),18568.68,2021-09-09,0
+CUST00014,Zanele,Zulu,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),11818.19,2019-05-27,1
+CUST00015,Suren,Venter,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),17695.35,2019-10-26,1
+CUST00016,Kavitha,Moodley,Johannesburg,Gauteng,Credit Card,Middle (R10k-R30k),12291.03,2018-08-11,1
+CUST00017,Thabo,Govender,Cape Town,Western Cape,Credit Card,Low (R0-R10k),4107.1,2020-02-11,1
+CUST00018,Taryn,Jacobs,Cape Town,Western Cape,Savings,High (R30k+),56860.03,2022-01-23,1
+CUST00019,Priya,Dlamini,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),25572.53,2020-03-07,1
+CUST00020,Bongani,Sithole,Bloemfontein,Free State,Cheque,High (R30k+),104849.9,2021-07-27,1
+CUST00021,Lerato,Moodley,Cape Town,Western Cape,Savings,Low (R0-R10k),6401.93,2022-03-15,1
+CUST00022,Christiaan,Mkhize,Durban,KwaZulu-Natal,Savings,Low (R0-R10k),9107.03,2018-12-03,1
+CUST00023,Nkosi,Sithole,Bloemfontein,Free State,Savings,Middle (R10k-R30k),20351.52,2022-07-24,1
+CUST00024,Zanele,Sithole,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),10143.82,2022-09-29,1
+CUST00025,Brendan,Mkhize,Cape Town,Western Cape,Savings,Middle (R10k-R30k),15569.55,2018-11-12,0
+CUST00026,Hannes,Mkhize,Nelspruit,Mpumalanga,Cheque,Low (R0-R10k),6310.81,2022-05-18,1
+CUST00027,Zanele,Naidoo,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),19340.49,2022-07-31,1
+CUST00028,Bontle,Mkhize,Bloemfontein,Free State,Business,High (R30k+),39834.21,2022-02-18,1
+CUST00029,Lerato,Venter,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),27489.72,2022-08-21,1
+CUST00030,Lwazi,Ndlovu,Johannesburg,Gauteng,Business,High (R30k+),113373.03,2020-03-13,1
+CUST00031,Thabo,du Plessis,East London,Eastern Cape,Credit Card,High (R30k+),44817.34,2018-07-11,1
+CUST00032,Rajan,Naidoo,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),29146.35,2022-01-19,1
+CUST00033,Kavitha,Nkosi,Pretoria,Gauteng,Credit Card,High (R30k+),82126.23,2022-08-07,1
+CUST00034,Lungelo,Nkosi,Nelspruit,Mpumalanga,Cheque,Middle (R10k-R30k),27054.4,2018-02-23,1
+CUST00035,Nkosi,Olivier,Cape Town,Western Cape,Savings,Middle (R10k-R30k),14704.08,2019-09-04,1
+CUST00036,Priya,van der Merwe,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),21673.45,2021-10-10,1
+CUST00037,Bongani,Venter,Bloemfontein,Free State,Credit Card,Low (R0-R10k),5770.5,2018-09-15,0
+CUST00038,Ayanda,Mthembu,Johannesburg,Gauteng,Savings,Middle (R10k-R30k),29969.09,2020-01-31,1
+CUST00039,Marlene,Cele,Bloemfontein,Free State,Savings,High (R30k+),109134.32,2020-06-18,1
+CUST00040,Priya,Dlamini,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),29744.66,2019-03-15,1
+CUST00041,Rajan,Khumalo,Durban,KwaZulu-Natal,Credit Card,Low (R0-R10k),9227.99,2021-05-04,1
+CUST00042,Ntombi,Steyn,Bloemfontein,Free State,Business,Low (R0-R10k),7439.67,2021-07-06,1
+CUST00043,Sifiso,Nkosi,Johannesburg,Gauteng,Cheque,Low (R0-R10k),5965.03,2021-01-18,1
+CUST00044,Christiaan,Fourie,Port Elizabeth,Eastern Cape,Cheque,Low (R0-R10k),6092.85,2022-04-17,1
+CUST00045,Nisha,Fourie,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),26691.9,2020-07-05,1
+CUST00046,Nomsa,Botha,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),28661.76,2019-02-05,1
+CUST00047,Hannes,Jacobs,Cape Town,Western Cape,Savings,Middle (R10k-R30k),21197.67,2021-08-05,1
+CUST00048,Pieter,Chetty,Durban,KwaZulu-Natal,Business,High (R30k+),32230.77,2018-06-04,1
+CUST00049,Ayanda,du Plessis,Pretoria,Gauteng,Cheque,Low (R0-R10k),8511.62,2018-02-08,1
+CUST00050,Bongani,Singh,Pretoria,Gauteng,Savings,High (R30k+),71427.29,2021-09-02,1
+CUST00051,Lerato,Moodley,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),15572.06,2020-12-13,1
+CUST00052,Pieter,Dlamini,East London,Eastern Cape,Cheque,Middle (R10k-R30k),26873.22,2021-06-16,1
+CUST00053,Anri,Govender,Port Elizabeth,Eastern Cape,Credit Card,Low (R0-R10k),7176.0,2020-06-22,1
+CUST00054,Ntombi,Nkosi,Cape Town,Western Cape,Business,Middle (R10k-R30k),21531.76,2022-11-29,1
+CUST00055,Pieter,Jacobs,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),11399.48,2019-03-15,1
+CUST00056,Johan,du Plessis,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),23337.86,2019-10-24,1
+CUST00057,Siyanda,Jacobs,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),17582.91,2020-08-23,1
+CUST00058,Nisha,Jacobs,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),4471.28,2020-04-24,1
+CUST00059,Lungelo,Naidoo,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),25874.71,2021-04-30,1
+CUST00060,Lwazi,Naidoo,Bloemfontein,Free State,Credit Card,Low (R0-R10k),9664.0,2021-08-29,1
+CUST00061,Wayne,Jacobs,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),4713.9,2020-05-14,1
+CUST00062,Ruan,Sithole,Pretoria,Gauteng,Savings,Middle (R10k-R30k),17679.57,2019-03-30,1
+CUST00063,Priya,Venter,Cape Town,Western Cape,Cheque,Middle (R10k-R30k),14376.82,2019-10-18,1
+CUST00064,Priya,Fourie,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),26028.33,2018-09-08,1
+CUST00065,Lungelo,Govender,East London,Eastern Cape,Business,High (R30k+),79308.48,2020-05-25,1
+CUST00066,Priya,Nel,Pretoria,Gauteng,Savings,High (R30k+),54958.02,2021-05-19,1
+CUST00067,Kavitha,Mthembu,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),5350.93,2022-01-28,1
+CUST00068,Hannes,van der Merwe,Durban,KwaZulu-Natal,Business,Middle (R10k-R30k),11284.58,2020-08-03,1
+CUST00069,Sipho,Moodley,East London,Eastern Cape,Business,Middle (R10k-R30k),25395.92,2020-03-31,1
+CUST00070,Hannes,Fourie,Bloemfontein,Free State,Savings,Low (R0-R10k),5729.91,2020-03-08,1
+CUST00071,Ruan,Govender,East London,Eastern Cape,Savings,Middle (R10k-R30k),17777.14,2018-03-17,1
+CUST00072,Ruan,Olivier,Durban,KwaZulu-Natal,Cheque,High (R30k+),78071.13,2022-06-14,1
+CUST00073,Ntombi,du Plessis,Durban,KwaZulu-Natal,Credit Card,High (R30k+),46355.61,2021-09-25,1
+CUST00074,Hannes,Nxumalo,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),17582.52,2020-04-13,1
+CUST00075,Lerato,Moodley,Johannesburg,Gauteng,Cheque,High (R30k+),61496.43,2018-09-10,1
+CUST00076,Tebogo,Sithole,Pretoria,Gauteng,Savings,Low (R0-R10k),3142.66,2020-04-07,1
+CUST00077,Marlene,Ndlovu,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),15124.87,2018-07-24,1
+CUST00078,Bongani,Olivier,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),3179.75,2020-09-11,0
+CUST00079,Lwazi,Zulu,Pretoria,Gauteng,Credit Card,Low (R0-R10k),7834.3,2018-02-25,1
+CUST00080,Nomsa,Botha,Cape Town,Western Cape,Business,Middle (R10k-R30k),21318.65,2019-03-19,1
+CUST00081,Brendan,Zulu,Bloemfontein,Free State,Business,Low (R0-R10k),5940.41,2020-11-21,1
+CUST00082,Priya,Pillay,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),18709.74,2019-06-20,1
+CUST00083,Nisha,Nxumalo,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),26514.69,2018-02-22,1
+CUST00084,Estelle,Olivier,Cape Town,Western Cape,Business,Low (R0-R10k),6155.61,2021-01-13,1
+CUST00085,Ntombi,van der Merwe,Bloemfontein,Free State,Credit Card,Low (R0-R10k),4484.84,2019-07-31,1
+CUST00086,Bontle,Mthembu,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),20332.55,2018-11-19,1
+CUST00087,Brendan,Venter,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),22918.06,2022-05-26,1
+CUST00088,Nisha,Botha,East London,Eastern Cape,Business,Middle (R10k-R30k),16124.12,2019-10-26,1
+CUST00089,Anri,Reddy,East London,Eastern Cape,Business,High (R30k+),79534.96,2021-05-27,1
+CUST00090,Nkosi,Govender,Pretoria,Gauteng,Savings,Low (R0-R10k),4348.09,2021-11-05,1
+CUST00091,Priya,Jacobs,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),7127.11,2022-05-11,1
+CUST00092,Thabo,Reddy,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),4256.09,2021-05-20,1
+CUST00093,Palesa,Pillay,Johannesburg,Gauteng,Business,Middle (R10k-R30k),23948.35,2022-05-06,1
+CUST00094,Siyanda,Nkosi,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),18809.38,2018-02-02,1
+CUST00095,Zanele,Khumalo,Cape Town,Western Cape,Savings,Middle (R10k-R30k),11481.64,2018-05-16,1
+CUST00096,Rajan,Moodley,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),4737.34,2019-07-10,1
+CUST00097,Liezel,Cele,Pretoria,Gauteng,Business,Middle (R10k-R30k),17607.56,2021-03-17,1
+CUST00098,Mpho,Pillay,Johannesburg,Gauteng,Savings,Middle (R10k-R30k),24801.79,2021-06-09,1
+CUST00099,Lungelo,Dlamini,Durban,KwaZulu-Natal,Business,Low (R0-R10k),6863.95,2020-05-24,1
+CUST00100,Khanyi,Reddy,Nelspruit,Mpumalanga,Business,Low (R0-R10k),4620.33,2022-07-10,1
+CUST00101,Bontle,Pretorius,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),22501.16,2019-11-13,1
+CUST00102,Lerato,Nkosi,Durban,KwaZulu-Natal,Savings,High (R30k+),104396.8,2018-06-23,1
+CUST00103,Bongani,Reddy,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),19373.96,2021-05-24,1
+CUST00104,Christiaan,Govender,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),21960.73,2019-07-15,1
+CUST00105,Ashwin,Olivier,Cape Town,Western Cape,Cheque,Low (R0-R10k),7720.09,2018-08-19,1
+CUST00106,Siyanda,Nel,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),25262.18,2021-05-12,1
+CUST00107,Kagiso,Nel,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),19834.52,2020-08-18,1
+CUST00108,Brendan,Cele,Cape Town,Western Cape,Business,High (R30k+),59682.33,2018-05-11,1
+CUST00109,Johan,Zulu,Johannesburg,Gauteng,Business,Middle (R10k-R30k),16290.34,2018-01-26,1
+CUST00110,Hannes,Nkosi,Johannesburg,Gauteng,Savings,Middle (R10k-R30k),20851.87,2020-01-06,1
+CUST00111,Mpho,Nxumalo,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),25199.81,2021-04-22,1
+CUST00112,Suren,Chetty,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),9812.03,2018-12-10,1
+CUST00113,Nkosi,Venter,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),11864.18,2019-04-16,1
+CUST00114,Sifiso,Pretorius,Nelspruit,Mpumalanga,Business,High (R30k+),56267.54,2020-04-09,1
+CUST00115,Taryn,Govender,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),28437.36,2018-01-28,1
+CUST00116,Sifiso,Singh,East London,Eastern Cape,Cheque,Low (R0-R10k),8514.02,2021-05-02,1
+CUST00117,Wayne,Botha,Nelspruit,Mpumalanga,Credit Card,High (R30k+),70189.27,2019-10-29,1
+CUST00118,Bontle,Reddy,East London,Eastern Cape,Savings,Middle (R10k-R30k),16435.55,2019-09-18,1
+CUST00119,Francois,du Plessis,East London,Eastern Cape,Savings,Low (R0-R10k),8212.94,2020-02-22,0
+CUST00120,Ayanda,Venter,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),21803.61,2019-12-21,1
+CUST00121,Tebogo,Mthembu,Johannesburg,Gauteng,Business,Middle (R10k-R30k),18199.57,2018-07-16,0
+CUST00122,Kagiso,van der Merwe,Bloemfontein,Free State,Business,Middle (R10k-R30k),17949.67,2021-02-22,1
+CUST00123,Lerato,Sithole,Nelspruit,Mpumalanga,Credit Card,High (R30k+),33230.92,2021-08-24,1
+CUST00124,Ayanda,Venter,East London,Eastern Cape,Savings,High (R30k+),98433.27,2019-01-11,1
+CUST00125,Khanyi,Botha,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),8573.0,2020-07-03,1
+CUST00126,Lungelo,Ndlovu,East London,Eastern Cape,Cheque,Middle (R10k-R30k),25850.39,2019-07-03,1
+CUST00127,Refilwe,Venter,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),21663.14,2020-05-05,1
+CUST00128,Khanyi,Naidoo,Johannesburg,Gauteng,Savings,High (R30k+),71872.79,2022-07-04,1
+CUST00129,Christiaan,Reddy,Bloemfontein,Free State,Credit Card,High (R30k+),56923.88,2020-05-11,1
+CUST00130,Ayanda,Sithole,Pretoria,Gauteng,Business,High (R30k+),106800.19,2019-09-18,1
+CUST00131,Ruan,Nxumalo,Port Elizabeth,Eastern Cape,Cheque,High (R30k+),56570.77,2019-09-30,1
+CUST00132,Khanyi,Moodley,Johannesburg,Gauteng,Savings,High (R30k+),97065.49,2019-07-08,1
+CUST00133,Palesa,Pillay,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),22417.82,2019-05-27,1
+CUST00134,Marlene,Govender,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),10667.29,2022-06-01,1
+CUST00135,Palesa,Chetty,Bloemfontein,Free State,Credit Card,Middle (R10k-R30k),13512.8,2019-12-11,1
+CUST00136,Wayne,Chetty,Port Elizabeth,Eastern Cape,Credit Card,High (R30k+),53127.31,2018-09-26,1
+CUST00137,Refilwe,Naidoo,Cape Town,Western Cape,Business,Middle (R10k-R30k),11505.99,2018-03-06,1
+CUST00138,Ntombi,Fourie,Bloemfontein,Free State,Cheque,Low (R0-R10k),5762.02,2020-05-15,1
+CUST00139,Marlene,Zulu,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),26448.35,2020-04-11,1
+CUST00140,Lerato,Pillay,Bloemfontein,Free State,Business,High (R30k+),49923.05,2018-12-28,1
+CUST00141,Nomsa,Cele,East London,Eastern Cape,Business,Low (R0-R10k),3317.43,2022-04-09,1
+CUST00142,Kavitha,Pretorius,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),17420.23,2020-08-05,1
+CUST00143,Sifiso,Nkosi,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),28781.06,2021-09-14,1
+CUST00144,Marlene,Fourie,Pretoria,Gauteng,Credit Card,High (R30k+),38941.92,2022-07-31,1
+CUST00145,Estelle,Mthembu,Pretoria,Gauteng,Savings,High (R30k+),115410.97,2019-04-28,1
+CUST00146,Palesa,Chetty,Johannesburg,Gauteng,Savings,Low (R0-R10k),5334.56,2022-07-15,1
+CUST00147,Refilwe,van der Merwe,Pretoria,Gauteng,Savings,Middle (R10k-R30k),26261.06,2018-07-01,1
+CUST00148,Palesa,Fourie,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),9888.2,2018-06-11,1
+CUST00149,Lwazi,Olivier,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),5507.7,2022-10-31,1
+CUST00150,Nkosi,Govender,Johannesburg,Gauteng,Cheque,Low (R0-R10k),5946.72,2020-04-01,1
+CUST00151,Taryn,Sithole,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),12181.08,2018-11-04,1
+CUST00152,Zanele,Nel,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),29280.52,2020-07-12,1
+CUST00153,Kagiso,van der Merwe,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),18871.25,2022-07-21,1
+CUST00154,Khanyi,Venter,Bloemfontein,Free State,Business,Middle (R10k-R30k),21947.84,2022-05-13,1
+CUST00155,Rajan,Govender,Cape Town,Western Cape,Savings,High (R30k+),88582.5,2020-07-05,1
+CUST00156,Ruan,Pretorius,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),26548.38,2021-03-02,1
+CUST00157,Wayne,Mthembu,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),13052.78,2018-04-04,1
+CUST00158,Palesa,Fourie,East London,Eastern Cape,Cheque,Low (R0-R10k),8171.57,2019-08-19,0
+CUST00159,Christiaan,Govender,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),18216.17,2021-04-22,1
+CUST00160,Tebogo,Naidoo,Bloemfontein,Free State,Business,Low (R0-R10k),6551.89,2021-08-30,1
+CUST00161,Sifiso,Olivier,Bloemfontein,Free State,Savings,High (R30k+),63080.49,2018-05-24,1
+CUST00162,Sifiso,Dlamini,Johannesburg,Gauteng,Savings,Middle (R10k-R30k),23156.62,2021-05-22,1
+CUST00163,Siyanda,Khumalo,Port Elizabeth,Eastern Cape,Business,High (R30k+),61592.11,2022-07-13,1
+CUST00164,Francois,Pretorius,Johannesburg,Gauteng,Business,Low (R0-R10k),6713.38,2021-01-03,1
+CUST00165,Ashwin,Jacobs,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),25536.71,2022-08-17,1
+CUST00166,Christiaan,Nel,Johannesburg,Gauteng,Business,Middle (R10k-R30k),15442.06,2020-08-06,1
+CUST00167,Nisha,Nel,Cape Town,Western Cape,Credit Card,Low (R0-R10k),3776.23,2022-08-31,1
+CUST00168,Mpho,Moodley,Johannesburg,Gauteng,Savings,Low (R0-R10k),5109.94,2018-08-20,1
+CUST00169,Christiaan,Ndlovu,Bloemfontein,Free State,Savings,Low (R0-R10k),6481.7,2020-10-15,1
+CUST00170,Anri,Mthembu,Pretoria,Gauteng,Business,Middle (R10k-R30k),26667.08,2018-02-02,1
+CUST00171,Johan,Olivier,East London,Eastern Cape,Business,Low (R0-R10k),9448.14,2019-09-15,1
+CUST00172,Johan,Ndlovu,East London,Eastern Cape,Business,Low (R0-R10k),5835.23,2018-04-04,1
+CUST00173,Lwazi,Pretorius,Bloemfontein,Free State,Business,Low (R0-R10k),8911.39,2019-12-25,1
+CUST00174,Lungelo,Mthembu,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),14431.44,2019-12-12,1
+CUST00175,Tebogo,Sithole,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),29164.47,2022-02-06,1
+CUST00176,Lerato,Ndlovu,Durban,KwaZulu-Natal,Business,Middle (R10k-R30k),25204.31,2020-04-26,1
+CUST00177,Devi,van der Merwe,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),27640.96,2022-01-27,1
+CUST00178,Sifiso,Olivier,Nelspruit,Mpumalanga,Cheque,Middle (R10k-R30k),16056.41,2020-12-12,1
+CUST00179,Marlene,Singh,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),10752.14,2022-06-28,1
+CUST00180,Estelle,Olivier,Cape Town,Western Cape,Cheque,Middle (R10k-R30k),20141.36,2020-05-25,1
+CUST00181,Tebogo,Nkosi,Pretoria,Gauteng,Business,Low (R0-R10k),6329.4,2022-05-05,1
+CUST00182,Siyanda,Nkosi,Bloemfontein,Free State,Savings,High (R30k+),37589.62,2018-12-14,1
+CUST00183,Marlene,Botha,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),22196.11,2020-09-30,1
+CUST00184,Pieter,Mthembu,Bloemfontein,Free State,Credit Card,Middle (R10k-R30k),11047.31,2022-05-23,1
+CUST00185,Suren,Khumalo,East London,Eastern Cape,Credit Card,Low (R0-R10k),8066.14,2022-06-19,1
+CUST00186,Ruan,Khumalo,Durban,KwaZulu-Natal,Cheque,High (R30k+),57920.86,2021-03-08,1
+CUST00187,Priya,Mthembu,Bloemfontein,Free State,Business,High (R30k+),90310.48,2020-01-26,1
+CUST00188,Pieter,Moodley,Bloemfontein,Free State,Business,Low (R0-R10k),9658.19,2021-11-04,1
+CUST00189,Ayanda,Steyn,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),5070.54,2019-03-18,1
+CUST00190,Siyanda,Singh,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),13085.06,2018-11-17,1
+CUST00191,Liezel,Jacobs,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),24391.71,2018-09-14,1
+CUST00192,Wayne,Singh,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),4674.18,2020-11-09,1
+CUST00193,Francois,Steyn,Nelspruit,Mpumalanga,Business,Middle (R10k-R30k),15635.43,2022-01-05,1
+CUST00194,Wayne,Botha,Durban,KwaZulu-Natal,Cheque,High (R30k+),34696.18,2018-12-07,1
+CUST00195,Sifiso,Venter,Cape Town,Western Cape,Savings,Low (R0-R10k),8341.82,2018-04-06,1
+CUST00196,Sipho,Pretorius,Pretoria,Gauteng,Cheque,High (R30k+),109616.68,2020-09-12,1
+CUST00197,Refilwe,Dlamini,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),11632.11,2022-05-14,1
+CUST00198,Khanyi,Singh,Bloemfontein,Free State,Business,Middle (R10k-R30k),12751.99,2019-01-07,1
+CUST00199,Kagiso,Dlamini,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),10105.02,2021-09-17,1
+CUST00200,Bongani,Zulu,East London,Eastern Cape,Cheque,Low (R0-R10k),5016.71,2021-08-01,1
+CUST00201,Brendan,Jacobs,Nelspruit,Mpumalanga,Cheque,Low (R0-R10k),8856.81,2019-05-18,1
+CUST00202,Thabo,Jacobs,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),15825.44,2021-07-28,1
+CUST00203,Marlene,Mthembu,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),11712.28,2020-09-24,1
+CUST00204,Ntombi,Govender,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),29620.79,2020-12-01,1
+CUST00205,Ayanda,Moodley,Bloemfontein,Free State,Credit Card,Low (R0-R10k),7599.73,2022-03-04,1
+CUST00206,Estelle,Reddy,Bloemfontein,Free State,Business,High (R30k+),45758.02,2019-05-19,1
+CUST00207,Estelle,Nkosi,Durban,KwaZulu-Natal,Credit Card,Low (R0-R10k),8433.33,2021-10-16,1
+CUST00208,Bongani,Steyn,Pretoria,Gauteng,Business,High (R30k+),58403.62,2018-05-08,1
+CUST00209,Khanyi,Botha,Port Elizabeth,Eastern Cape,Cheque,Low (R0-R10k),7528.3,2018-01-24,1
+CUST00210,Ruan,Govender,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),5576.13,2020-10-02,1
+CUST00211,Priya,Nxumalo,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),19950.47,2018-11-04,1
+CUST00212,Kavitha,Cele,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),26446.83,2022-05-06,1
+CUST00213,Christiaan,Ndlovu,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),7218.35,2020-12-13,1
+CUST00214,Zanele,Mthembu,Bloemfontein,Free State,Business,Middle (R10k-R30k),18698.81,2020-11-18,1
+CUST00215,Suren,Naidoo,Durban,KwaZulu-Natal,Business,High (R30k+),42850.15,2022-09-22,1
+CUST00216,Francois,Olivier,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),17326.57,2019-07-12,1
+CUST00217,Lerato,Olivier,Nelspruit,Mpumalanga,Savings,High (R30k+),63481.2,2019-12-14,1
+CUST00218,Nkosi,Dlamini,Bloemfontein,Free State,Savings,Middle (R10k-R30k),14992.23,2020-02-14,1
+CUST00219,Liezel,Mkhize,Cape Town,Western Cape,Credit Card,Low (R0-R10k),4822.03,2019-01-11,1
+CUST00220,Lerato,Venter,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),3950.1,2018-12-03,1
+CUST00221,Johan,Naidoo,Cape Town,Western Cape,Credit Card,High (R30k+),117080.51,2018-12-10,1
+CUST00222,Siyanda,Chetty,Port Elizabeth,Eastern Cape,Credit Card,High (R30k+),106622.58,2020-01-26,1
+CUST00223,Brendan,Dlamini,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),14734.72,2019-10-25,1
+CUST00224,Devi,Mthembu,Nelspruit,Mpumalanga,Cheque,High (R30k+),79648.22,2021-03-09,1
+CUST00225,Ashwin,Mthembu,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),25383.29,2021-02-21,1
+CUST00226,Palesa,Singh,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),20347.2,2018-08-13,0
+CUST00227,Nkosi,Steyn,East London,Eastern Cape,Savings,Middle (R10k-R30k),27364.23,2021-03-20,1
+CUST00228,Priya,Cele,Bloemfontein,Free State,Cheque,High (R30k+),50292.33,2021-07-07,1
+CUST00229,Kavitha,Mthembu,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),5119.77,2019-08-08,0
+CUST00230,Suren,van der Merwe,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),7371.35,2018-04-17,1
+CUST00231,Ashwin,Nxumalo,Cape Town,Western Cape,Savings,Low (R0-R10k),7490.18,2018-08-15,1
+CUST00232,Khanyi,Pillay,Johannesburg,Gauteng,Credit Card,Middle (R10k-R30k),22543.28,2020-03-18,1
+CUST00233,Zanele,Ndlovu,East London,Eastern Cape,Business,Low (R0-R10k),3510.81,2020-08-03,1
+CUST00234,Johan,Govender,Pretoria,Gauteng,Credit Card,Low (R0-R10k),4005.68,2020-09-07,1
+CUST00235,Lwazi,Venter,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),12123.68,2021-06-03,1
+CUST00236,Francois,Jacobs,Durban,KwaZulu-Natal,Business,Low (R0-R10k),5031.48,2021-07-12,0
+CUST00237,Johan,Mkhize,Durban,KwaZulu-Natal,Savings,High (R30k+),114037.64,2020-02-16,0
+CUST00238,Sipho,Mthembu,Nelspruit,Mpumalanga,Business,Middle (R10k-R30k),16170.81,2020-02-01,1
+CUST00239,Zanele,Cele,Pretoria,Gauteng,Business,Low (R0-R10k),5470.27,2019-07-28,1
+CUST00240,Ayanda,Pretorius,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),3057.24,2021-06-09,1
+CUST00241,Ashwin,Fourie,East London,Eastern Cape,Savings,Middle (R10k-R30k),18011.63,2020-11-20,1
+CUST00242,Rajan,Nxumalo,Cape Town,Western Cape,Cheque,Middle (R10k-R30k),19007.09,2022-03-14,0
+CUST00243,Rajan,Botha,East London,Eastern Cape,Savings,Middle (R10k-R30k),29735.75,2021-10-21,1
+CUST00244,Palesa,Reddy,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),10906.07,2018-05-31,1
+CUST00245,Palesa,van der Merwe,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),9251.92,2022-01-04,1
+CUST00246,Taryn,Fourie,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),20146.3,2018-12-12,1
+CUST00247,Nkosi,Pretorius,Nelspruit,Mpumalanga,Credit Card,High (R30k+),63152.2,2018-06-15,1
+CUST00248,Nisha,Olivier,Johannesburg,Gauteng,Savings,Middle (R10k-R30k),15310.61,2018-11-16,1
+CUST00249,Devi,Moodley,Nelspruit,Mpumalanga,Business,Low (R0-R10k),7403.18,2022-02-03,1
+CUST00250,Nkosi,Mkhize,Pretoria,Gauteng,Cheque,Low (R0-R10k),9637.44,2020-06-12,1
+CUST00251,Taryn,Moodley,Durban,KwaZulu-Natal,Business,Middle (R10k-R30k),14077.83,2018-01-10,1
+CUST00252,Rajan,van der Merwe,Johannesburg,Gauteng,Business,Middle (R10k-R30k),20373.66,2019-12-22,1
+CUST00253,Kavitha,Botha,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),20662.54,2019-07-02,1
+CUST00254,Bongani,Moodley,Pretoria,Gauteng,Credit Card,Low (R0-R10k),5089.49,2018-12-20,1
+CUST00255,Sifiso,Cele,Nelspruit,Mpumalanga,Cheque,Low (R0-R10k),5441.62,2019-09-15,1
+CUST00256,Anri,Moodley,East London,Eastern Cape,Savings,High (R30k+),65507.92,2021-04-17,1
+CUST00257,Ntombi,Govender,Cape Town,Western Cape,Business,Low (R0-R10k),6096.63,2021-09-20,1
+CUST00258,Palesa,Zulu,Port Elizabeth,Eastern Cape,Savings,High (R30k+),92655.42,2021-07-24,1
+CUST00259,Hannes,van der Merwe,Pretoria,Gauteng,Business,Middle (R10k-R30k),11049.82,2022-05-11,1
+CUST00260,Lungelo,Pretorius,Durban,KwaZulu-Natal,Business,Low (R0-R10k),6852.47,2020-03-30,1
+CUST00261,Kagiso,Pillay,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),7521.29,2019-12-03,1
+CUST00262,Siyanda,Nkosi,Johannesburg,Gauteng,Business,High (R30k+),45755.83,2018-07-03,1
+CUST00263,Ashwin,Jacobs,Port Elizabeth,Eastern Cape,Cheque,High (R30k+),30834.05,2021-01-15,1
+CUST00264,Taryn,Venter,Nelspruit,Mpumalanga,Credit Card,High (R30k+),42078.0,2021-11-03,1
+CUST00265,Ntombi,Reddy,Bloemfontein,Free State,Savings,Low (R0-R10k),6212.4,2022-11-04,1
+CUST00266,Siyanda,Jacobs,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),25145.66,2018-04-14,1
+CUST00267,Siyanda,Khumalo,Bloemfontein,Free State,Business,Low (R0-R10k),7684.79,2021-02-08,0
+CUST00268,Sifiso,van der Merwe,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),4648.65,2019-08-28,1
+CUST00269,Lwazi,Nkosi,Johannesburg,Gauteng,Cheque,Low (R0-R10k),5516.86,2020-04-23,1
+CUST00270,Bongani,Reddy,East London,Eastern Cape,Cheque,Middle (R10k-R30k),28462.12,2019-05-04,1
+CUST00271,Palesa,Nel,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),14416.98,2020-05-15,1
+CUST00272,Wayne,Moodley,Bloemfontein,Free State,Savings,Middle (R10k-R30k),20984.69,2018-08-25,1
+CUST00273,Marlene,Mthembu,Cape Town,Western Cape,Cheque,Middle (R10k-R30k),20563.46,2022-07-29,1
+CUST00274,Johan,Steyn,Pretoria,Gauteng,Business,Middle (R10k-R30k),12997.05,2022-04-08,1
+CUST00275,Zanele,Venter,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),6572.63,2020-01-16,1
+CUST00276,Bongani,Govender,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),23455.35,2020-09-13,1
+CUST00277,Nomsa,Pretorius,Johannesburg,Gauteng,Credit Card,Middle (R10k-R30k),21566.23,2018-12-29,1
+CUST00278,Wayne,Nkosi,Johannesburg,Gauteng,Credit Card,High (R30k+),36211.72,2020-08-17,1
+CUST00279,Hannes,Botha,Durban,KwaZulu-Natal,Business,Middle (R10k-R30k),29566.67,2020-05-28,1
+CUST00280,Kavitha,Khumalo,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),23654.61,2022-04-04,1
+CUST00281,Refilwe,Singh,East London,Eastern Cape,Cheque,Middle (R10k-R30k),24557.16,2018-09-06,1
+CUST00282,Christiaan,Fourie,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),24381.88,2018-04-21,1
+CUST00283,Nkosi,Nkosi,Nelspruit,Mpumalanga,Business,Low (R0-R10k),4929.55,2019-06-22,1
+CUST00284,Suren,Nkosi,Johannesburg,Gauteng,Business,Low (R0-R10k),3471.04,2019-07-27,1
+CUST00285,Liezel,Sithole,Johannesburg,Gauteng,Savings,Low (R0-R10k),3309.66,2018-09-10,1
+CUST00286,Refilwe,Singh,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),9954.38,2019-09-07,1
+CUST00287,Priya,Sithole,Bloemfontein,Free State,Business,Low (R0-R10k),9133.81,2021-03-27,1
+CUST00288,Brendan,Nkosi,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),18544.01,2019-04-25,1
+CUST00289,Bongani,du Plessis,Bloemfontein,Free State,Savings,Middle (R10k-R30k),18165.18,2018-09-09,1
+CUST00290,Tebogo,Chetty,Pretoria,Gauteng,Business,High (R30k+),57066.28,2022-08-06,1
+CUST00291,Lwazi,Nxumalo,East London,Eastern Cape,Savings,Middle (R10k-R30k),12681.86,2021-01-25,1
+CUST00292,Bontle,Nkosi,Nelspruit,Mpumalanga,Credit Card,High (R30k+),38321.76,2020-10-21,1
+CUST00293,Nisha,Govender,Johannesburg,Gauteng,Savings,High (R30k+),46934.7,2020-03-26,1
+CUST00294,Mpho,Mkhize,Bloemfontein,Free State,Cheque,Low (R0-R10k),9362.96,2018-09-25,0
+CUST00295,Mpho,du Plessis,Nelspruit,Mpumalanga,Savings,High (R30k+),92606.37,2019-10-29,1
+CUST00296,Anri,Cele,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),20673.0,2020-11-26,1
+CUST00297,Wayne,Moodley,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),26056.33,2021-10-12,1
+CUST00298,Tebogo,Dlamini,East London,Eastern Cape,Credit Card,Low (R0-R10k),9048.59,2019-10-26,0
+CUST00299,Refilwe,du Plessis,East London,Eastern Cape,Savings,Low (R0-R10k),4373.34,2020-02-14,1
+CUST00300,Brendan,Venter,Bloemfontein,Free State,Savings,Low (R0-R10k),8751.14,2018-10-24,1
+CUST00301,Siyanda,Fourie,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),6825.82,2019-12-25,1
+CUST00302,Thabo,Pretorius,Cape Town,Western Cape,Savings,High (R30k+),90139.4,2018-03-13,1
+CUST00303,Taryn,Venter,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),10182.83,2022-08-01,1
+CUST00304,Kavitha,Fourie,Nelspruit,Mpumalanga,Business,Middle (R10k-R30k),10314.64,2022-11-08,1
+CUST00305,Taryn,Singh,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),15733.77,2018-05-26,0
+CUST00306,Tebogo,Sithole,Durban,KwaZulu-Natal,Savings,Low (R0-R10k),3674.2,2019-06-12,1
+CUST00307,Marlene,du Plessis,Bloemfontein,Free State,Business,Low (R0-R10k),5778.27,2019-10-02,1
+CUST00308,Kagiso,Pillay,Pretoria,Gauteng,Cheque,Low (R0-R10k),8796.43,2022-05-25,1
+CUST00309,Thabo,Reddy,East London,Eastern Cape,Savings,Middle (R10k-R30k),11122.3,2022-06-16,1
+CUST00310,Ayanda,Steyn,East London,Eastern Cape,Cheque,Middle (R10k-R30k),16625.41,2021-08-19,1
+CUST00311,Sifiso,Fourie,Nelspruit,Mpumalanga,Cheque,Low (R0-R10k),9469.11,2021-11-30,0
+CUST00312,Tebogo,Moodley,Bloemfontein,Free State,Business,Low (R0-R10k),4450.11,2022-06-28,1
+CUST00313,Kavitha,van der Merwe,Pretoria,Gauteng,Business,Middle (R10k-R30k),26988.85,2018-09-07,1
+CUST00314,Zanele,Zulu,Cape Town,Western Cape,Business,Middle (R10k-R30k),29486.47,2021-08-14,1
+CUST00315,Suren,du Plessis,Bloemfontein,Free State,Credit Card,Middle (R10k-R30k),22277.3,2022-10-03,1
+CUST00316,Francois,Pretorius,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),17116.22,2019-02-09,1
+CUST00317,Lwazi,Reddy,East London,Eastern Cape,Cheque,Low (R0-R10k),7330.31,2022-06-17,1
+CUST00318,Francois,van der Merwe,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),22678.02,2022-04-28,1
+CUST00319,Ayanda,Khumalo,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),25226.93,2021-11-14,1
+CUST00320,Rajan,Mthembu,East London,Eastern Cape,Credit Card,Low (R0-R10k),3627.33,2018-01-29,1
+CUST00321,Rajan,Sithole,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),25583.38,2019-01-29,1
+CUST00322,Tebogo,Mthembu,Durban,KwaZulu-Natal,Savings,Low (R0-R10k),4878.85,2020-06-25,1
+CUST00323,Ntombi,Sithole,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),11538.43,2019-08-04,1
+CUST00324,Ruan,van der Merwe,Nelspruit,Mpumalanga,Business,Low (R0-R10k),5132.61,2018-05-31,1
+CUST00325,Suren,Khumalo,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),8708.33,2021-02-14,1
+CUST00326,Ruan,van der Merwe,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),13552.75,2018-10-19,1
+CUST00327,Johan,du Plessis,Nelspruit,Mpumalanga,Credit Card,High (R30k+),100377.69,2018-05-05,1
+CUST00328,Nisha,Fourie,Bloemfontein,Free State,Savings,Low (R0-R10k),6946.95,2019-02-05,1
+CUST00329,Mpho,Venter,Johannesburg,Gauteng,Credit Card,High (R30k+),71546.0,2018-04-05,1
+CUST00330,Bongani,Sithole,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),12783.58,2019-03-25,1
+CUST00331,Suren,Nel,East London,Eastern Cape,Business,Middle (R10k-R30k),11479.3,2019-12-04,1
+CUST00332,Marlene,Reddy,East London,Eastern Cape,Cheque,Middle (R10k-R30k),25814.42,2022-04-23,1
+CUST00333,Ashwin,Pillay,Bloemfontein,Free State,Business,Low (R0-R10k),7288.75,2018-09-13,1
+CUST00334,Refilwe,Steyn,East London,Eastern Cape,Savings,Low (R0-R10k),3690.25,2020-06-03,1
+CUST00335,Taryn,Khumalo,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),21771.8,2022-10-13,1
+CUST00336,Nkosi,Singh,Port Elizabeth,Eastern Cape,Savings,Middle (R10k-R30k),29234.56,2020-12-19,1
+CUST00337,Anri,Nel,Nelspruit,Mpumalanga,Cheque,Middle (R10k-R30k),20422.3,2020-06-18,1
+CUST00338,Nkosi,Dlamini,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),5101.85,2019-04-15,1
+CUST00339,Priya,Ndlovu,Durban,KwaZulu-Natal,Savings,High (R30k+),96644.05,2021-01-24,1
+CUST00340,Siyanda,Ndlovu,Nelspruit,Mpumalanga,Business,Low (R0-R10k),5835.33,2020-09-13,1
+CUST00341,Thabo,Reddy,Pretoria,Gauteng,Savings,Middle (R10k-R30k),18591.06,2021-10-07,1
+CUST00342,Kavitha,Ndlovu,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),25990.05,2021-02-03,1
+CUST00343,Priya,Pillay,Cape Town,Western Cape,Credit Card,Low (R0-R10k),9038.46,2019-07-29,1
+CUST00344,Estelle,Jacobs,East London,Eastern Cape,Savings,Middle (R10k-R30k),16958.49,2018-05-11,1
+CUST00345,Palesa,van der Merwe,Port Elizabeth,Eastern Cape,Cheque,High (R30k+),83115.15,2021-08-01,1
+CUST00346,Francois,Pretorius,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),12827.17,2019-09-12,1
+CUST00347,Siyanda,Fourie,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),20747.59,2020-03-05,1
+CUST00348,Zanele,Botha,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),6157.01,2020-03-15,1
+CUST00349,Brendan,Pretorius,East London,Eastern Cape,Business,High (R30k+),75489.42,2020-08-03,1
+CUST00350,Sipho,Chetty,Nelspruit,Mpumalanga,Savings,Middle (R10k-R30k),11653.41,2021-04-13,1
+CUST00351,Estelle,Olivier,Pretoria,Gauteng,Business,Middle (R10k-R30k),13364.18,2019-11-03,1
+CUST00352,Marlene,Fourie,Cape Town,Western Cape,Cheque,Low (R0-R10k),6801.74,2018-08-29,1
+CUST00353,Lwazi,Cele,Pretoria,Gauteng,Cheque,High (R30k+),39217.48,2020-05-25,1
+CUST00354,Lwazi,Mkhize,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),29879.15,2018-02-03,1
+CUST00355,Mpho,Singh,East London,Eastern Cape,Savings,Low (R0-R10k),3974.64,2018-05-28,1
+CUST00356,Lungelo,van der Merwe,Bloemfontein,Free State,Credit Card,Middle (R10k-R30k),21937.15,2021-04-19,1
+CUST00357,Hannes,Nkosi,Cape Town,Western Cape,Credit Card,Low (R0-R10k),8250.66,2018-01-22,1
+CUST00358,Lwazi,Moodley,Durban,KwaZulu-Natal,Business,Low (R0-R10k),7979.76,2020-03-05,1
+CUST00359,Lerato,Pillay,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),17503.45,2020-08-29,1
+CUST00360,Estelle,Nel,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),27546.35,2019-08-29,1
+CUST00361,Anri,Mthembu,Cape Town,Western Cape,Business,Middle (R10k-R30k),19168.99,2021-09-12,0
+CUST00362,Khanyi,van der Merwe,Pretoria,Gauteng,Savings,Middle (R10k-R30k),16457.3,2019-09-30,1
+CUST00363,Nomsa,Zulu,Bloemfontein,Free State,Business,High (R30k+),98602.86,2022-10-30,1
+CUST00364,Christiaan,Mkhize,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),10013.52,2019-04-11,1
+CUST00365,Kagiso,Botha,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),5523.05,2022-08-18,1
+CUST00366,Christiaan,Pillay,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),25104.64,2018-12-22,1
+CUST00367,Refilwe,Steyn,Pretoria,Gauteng,Business,Middle (R10k-R30k),12654.0,2022-11-13,1
+CUST00368,Christiaan,Reddy,Bloemfontein,Free State,Savings,High (R30k+),118933.94,2020-03-29,1
+CUST00369,Ayanda,van der Merwe,East London,Eastern Cape,Credit Card,Low (R0-R10k),8641.7,2021-03-30,1
+CUST00370,Lerato,Steyn,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),23542.74,2019-07-02,1
+CUST00371,Tebogo,Pretorius,Nelspruit,Mpumalanga,Business,Middle (R10k-R30k),14261.11,2018-02-05,1
+CUST00372,Francois,Botha,Cape Town,Western Cape,Business,Low (R0-R10k),3862.1,2021-02-26,1
+CUST00373,Rajan,Jacobs,Pretoria,Gauteng,Credit Card,Low (R0-R10k),3589.74,2018-07-21,0
+CUST00374,Bongani,Mkhize,Johannesburg,Gauteng,Savings,High (R30k+),89256.48,2018-09-23,1
+CUST00375,Lwazi,Nel,Johannesburg,Gauteng,Business,Middle (R10k-R30k),25875.56,2022-04-16,1
+CUST00376,Marlene,van der Merwe,Cape Town,Western Cape,Savings,Middle (R10k-R30k),29553.94,2020-10-01,1
+CUST00377,Wayne,Moodley,East London,Eastern Cape,Cheque,Middle (R10k-R30k),23658.84,2022-10-29,1
+CUST00378,Zanele,Chetty,Johannesburg,Gauteng,Business,Low (R0-R10k),3278.79,2020-01-30,1
+CUST00379,Kavitha,Fourie,East London,Eastern Cape,Savings,Middle (R10k-R30k),18045.55,2021-05-13,1
+CUST00380,Tebogo,Fourie,Cape Town,Western Cape,Credit Card,Middle (R10k-R30k),14063.95,2020-09-23,1
+CUST00381,Lwazi,Nkosi,Cape Town,Western Cape,Savings,Low (R0-R10k),6062.4,2022-06-09,0
+CUST00382,Bongani,Naidoo,Cape Town,Western Cape,Savings,Middle (R10k-R30k),22176.65,2022-04-02,1
+CUST00383,Anri,Steyn,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),13276.65,2021-12-26,1
+CUST00384,Sipho,van der Merwe,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),12361.13,2021-05-24,1
+CUST00385,Lerato,Nel,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),21533.03,2020-01-21,1
+CUST00386,Lungelo,Nxumalo,Nelspruit,Mpumalanga,Cheque,High (R30k+),45019.33,2019-09-14,1
+CUST00387,Nomsa,Dlamini,Cape Town,Western Cape,Savings,Low (R0-R10k),6561.77,2022-08-30,1
+CUST00388,Nomsa,Fourie,East London,Eastern Cape,Business,High (R30k+),46106.48,2021-08-30,1
+CUST00389,Lerato,Olivier,East London,Eastern Cape,Credit Card,High (R30k+),58794.16,2022-04-02,1
+CUST00390,Nomsa,du Plessis,Johannesburg,Gauteng,Cheque,Low (R0-R10k),8630.37,2020-04-24,1
+CUST00391,Thabo,Botha,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),6871.64,2021-04-14,1
+CUST00392,Marlene,Olivier,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),14851.68,2018-08-03,1
+CUST00393,Sipho,Sithole,Pretoria,Gauteng,Credit Card,Low (R0-R10k),9526.78,2019-05-10,1
+CUST00394,Francois,Govender,Johannesburg,Gauteng,Credit Card,High (R30k+),30131.58,2022-05-04,1
+CUST00395,Tebogo,Reddy,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),29223.7,2022-05-26,1
+CUST00396,Marlene,Venter,Pretoria,Gauteng,Cheque,High (R30k+),76778.33,2019-08-31,1
+CUST00397,Nisha,Olivier,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),17887.03,2020-06-25,1
+CUST00398,Johan,Chetty,Durban,KwaZulu-Natal,Business,Low (R0-R10k),4826.94,2018-12-28,1
+CUST00399,Lerato,Mkhize,Bloemfontein,Free State,Savings,Low (R0-R10k),4903.69,2018-07-19,1
+CUST00400,Estelle,van der Merwe,Cape Town,Western Cape,Business,Low (R0-R10k),4150.62,2022-03-30,1
+CUST00401,Nkosi,Mthembu,Pretoria,Gauteng,Savings,Middle (R10k-R30k),19266.93,2018-05-24,1
+CUST00402,Tebogo,Mthembu,Johannesburg,Gauteng,Savings,Low (R0-R10k),8996.01,2020-12-04,1
+CUST00403,Siyanda,Dlamini,Johannesburg,Gauteng,Business,Middle (R10k-R30k),15203.34,2018-02-16,1
+CUST00404,Palesa,Zulu,Pretoria,Gauteng,Cheque,Low (R0-R10k),3713.35,2022-07-29,1
+CUST00405,Marlene,Naidoo,Pretoria,Gauteng,Cheque,Low (R0-R10k),8765.71,2019-08-28,1
+CUST00406,Liezel,Chetty,Cape Town,Western Cape,Savings,Low (R0-R10k),3451.3,2022-05-28,1
+CUST00407,Zanele,Ndlovu,Bloemfontein,Free State,Business,Low (R0-R10k),9595.96,2018-04-25,1
+CUST00408,Siyanda,Botha,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),7782.49,2021-11-14,1
+CUST00409,Devi,Jacobs,Nelspruit,Mpumalanga,Savings,High (R30k+),33118.45,2019-04-17,1
+CUST00410,Kagiso,Nxumalo,East London,Eastern Cape,Business,High (R30k+),73112.78,2022-02-24,1
+CUST00411,Sipho,du Plessis,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),26043.36,2020-03-25,1
+CUST00412,Johan,du Plessis,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),6959.56,2021-11-29,1
+CUST00413,Sifiso,Nkosi,Pretoria,Gauteng,Business,Low (R0-R10k),8674.83,2019-12-14,1
+CUST00414,Lwazi,Nxumalo,Pretoria,Gauteng,Cheque,High (R30k+),39012.09,2018-08-21,0
+CUST00415,Francois,Botha,Pretoria,Gauteng,Savings,Middle (R10k-R30k),29653.29,2021-12-07,1
+CUST00416,Nisha,Dlamini,Bloemfontein,Free State,Credit Card,High (R30k+),92786.39,2019-09-27,1
+CUST00417,Brendan,Fourie,Pretoria,Gauteng,Credit Card,High (R30k+),102936.1,2021-12-08,1
+CUST00418,Sipho,Steyn,Cape Town,Western Cape,Business,Low (R0-R10k),7211.64,2022-12-01,1
+CUST00419,Siyanda,Chetty,Pretoria,Gauteng,Credit Card,High (R30k+),60668.31,2022-08-03,1
+CUST00420,Marlene,Mthembu,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),26929.62,2018-12-21,0
+CUST00421,Johan,Khumalo,East London,Eastern Cape,Savings,Middle (R10k-R30k),16731.22,2018-10-25,0
+CUST00422,Rajan,Reddy,Nelspruit,Mpumalanga,Credit Card,Middle (R10k-R30k),13484.05,2021-09-01,1
+CUST00423,Khanyi,Khumalo,Durban,KwaZulu-Natal,Savings,Middle (R10k-R30k),24679.9,2018-11-01,1
+CUST00424,Ashwin,Nkosi,East London,Eastern Cape,Savings,High (R30k+),99374.74,2019-07-18,1
+CUST00425,Brendan,Khumalo,Pretoria,Gauteng,Credit Card,Middle (R10k-R30k),12082.2,2018-09-28,1
+CUST00426,Kagiso,Singh,Bloemfontein,Free State,Credit Card,High (R30k+),45109.87,2020-06-01,1
+CUST00427,Ntombi,Chetty,Pretoria,Gauteng,Cheque,Low (R0-R10k),3474.56,2018-11-18,1
+CUST00428,Lungelo,Pretorius,East London,Eastern Cape,Business,Middle (R10k-R30k),18393.06,2020-10-18,1
+CUST00429,Ashwin,Pillay,East London,Eastern Cape,Savings,Low (R0-R10k),6356.42,2022-01-03,1
+CUST00430,Ayanda,Mthembu,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),5231.02,2021-12-19,1
+CUST00431,Kagiso,van der Merwe,Durban,KwaZulu-Natal,Business,Middle (R10k-R30k),20940.93,2018-12-21,1
+CUST00432,Zanele,Zulu,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),18684.01,2021-10-08,0
+CUST00433,Kavitha,Nxumalo,East London,Eastern Cape,Credit Card,Middle (R10k-R30k),24440.76,2021-04-02,1
+CUST00434,Brendan,Khumalo,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),20993.25,2020-11-24,1
+CUST00435,Suren,Nel,Cape Town,Western Cape,Savings,Low (R0-R10k),7634.14,2022-05-18,1
+CUST00436,Wayne,Zulu,Durban,KwaZulu-Natal,Credit Card,Middle (R10k-R30k),29541.15,2018-07-09,1
+CUST00437,Kavitha,du Plessis,Nelspruit,Mpumalanga,Savings,High (R30k+),53850.4,2020-11-03,1
+CUST00438,Liezel,Venter,Bloemfontein,Free State,Credit Card,Low (R0-R10k),3312.32,2021-08-26,1
+CUST00439,Ayanda,Mthembu,Johannesburg,Gauteng,Credit Card,Low (R0-R10k),7875.3,2018-05-22,1
+CUST00440,Priya,Pretorius,Pretoria,Gauteng,Business,Middle (R10k-R30k),26815.94,2019-09-17,1
+CUST00441,Nomsa,Steyn,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),5763.63,2022-03-31,0
+CUST00442,Mpho,Chetty,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),9890.58,2022-03-19,1
+CUST00443,Tebogo,Singh,Cape Town,Western Cape,Credit Card,High (R30k+),69185.39,2021-02-16,1
+CUST00444,Rajan,van der Merwe,Cape Town,Western Cape,Credit Card,Low (R0-R10k),6894.55,2020-01-03,1
+CUST00445,Priya,Chetty,Johannesburg,Gauteng,Business,Middle (R10k-R30k),22461.16,2022-04-16,1
+CUST00446,Ayanda,Zulu,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),21653.54,2018-07-07,1
+CUST00447,Brendan,Olivier,Bloemfontein,Free State,Business,High (R30k+),53772.3,2022-09-17,1
+CUST00448,Ruan,Nkosi,East London,Eastern Cape,Business,Low (R0-R10k),7260.59,2021-01-23,1
+CUST00449,Marlene,Dlamini,Johannesburg,Gauteng,Credit Card,Middle (R10k-R30k),28416.7,2018-05-03,1
+CUST00450,Ayanda,Sithole,Port Elizabeth,Eastern Cape,Savings,Low (R0-R10k),6441.33,2021-03-27,0
+CUST00451,Hannes,Jacobs,Nelspruit,Mpumalanga,Cheque,Middle (R10k-R30k),16417.37,2021-11-13,1
+CUST00452,Marlene,Singh,East London,Eastern Cape,Cheque,Middle (R10k-R30k),25189.87,2020-01-12,1
+CUST00453,Palesa,Moodley,Cape Town,Western Cape,Cheque,Low (R0-R10k),6547.57,2021-12-12,1
+CUST00454,Estelle,Nkosi,Pretoria,Gauteng,Credit Card,High (R30k+),52454.12,2018-12-20,1
+CUST00455,Nkosi,Naidoo,Bloemfontein,Free State,Cheque,High (R30k+),75461.37,2021-07-25,1
+CUST00456,Nisha,Fourie,Nelspruit,Mpumalanga,Credit Card,Low (R0-R10k),9093.37,2020-12-27,1
+CUST00457,Khanyi,Dlamini,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),23777.01,2022-08-23,1
+CUST00458,Mpho,Nxumalo,Pretoria,Gauteng,Business,High (R30k+),88264.19,2020-01-16,1
+CUST00459,Siyanda,Jacobs,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),12646.28,2021-08-31,1
+CUST00460,Sifiso,Pretorius,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),24187.36,2018-02-22,1
+CUST00461,Priya,Singh,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),5115.02,2019-08-23,1
+CUST00462,Khanyi,Cele,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),21875.45,2020-03-21,1
+CUST00463,Ntombi,Pillay,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),27229.83,2021-11-12,1
+CUST00464,Suren,du Plessis,Pretoria,Gauteng,Credit Card,High (R30k+),102488.68,2019-02-07,1
+CUST00465,Ntombi,Pretorius,Johannesburg,Gauteng,Business,Middle (R10k-R30k),29949.38,2020-09-28,1
+CUST00466,Kavitha,Pillay,Pretoria,Gauteng,Business,Low (R0-R10k),7993.59,2019-02-26,1
+CUST00467,Rajan,Ndlovu,Port Elizabeth,Eastern Cape,Credit Card,High (R30k+),105657.48,2022-05-17,1
+CUST00468,Siyanda,Naidoo,Port Elizabeth,Eastern Cape,Credit Card,Middle (R10k-R30k),21180.63,2019-04-02,1
+CUST00469,Hannes,Chetty,Bloemfontein,Free State,Credit Card,Low (R0-R10k),9100.03,2020-11-01,1
+CUST00470,Zanele,Pillay,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),12355.63,2020-04-09,1
+CUST00471,Bongani,Pretorius,Cape Town,Western Cape,Cheque,High (R30k+),64350.23,2018-01-14,1
+CUST00472,Ashwin,Venter,Durban,KwaZulu-Natal,Savings,High (R30k+),60840.29,2021-02-23,1
+CUST00473,Siyanda,van der Merwe,Durban,KwaZulu-Natal,Cheque,Middle (R10k-R30k),19751.62,2022-11-23,1
+CUST00474,Lungelo,Nel,Pretoria,Gauteng,Cheque,Middle (R10k-R30k),13372.12,2022-03-12,1
+CUST00475,Francois,Dlamini,East London,Eastern Cape,Cheque,Middle (R10k-R30k),29306.56,2019-12-05,1
+CUST00476,Priya,Mkhize,Bloemfontein,Free State,Cheque,High (R30k+),110280.58,2019-02-16,1
+CUST00477,Bongani,Khumalo,Pretoria,Gauteng,Cheque,Low (R0-R10k),9138.9,2020-10-08,1
+CUST00478,Bongani,Cele,Port Elizabeth,Eastern Cape,Business,Low (R0-R10k),8766.91,2018-11-03,1
+CUST00479,Palesa,van der Merwe,Bloemfontein,Free State,Business,Middle (R10k-R30k),23735.6,2020-11-27,1
+CUST00480,Ruan,Dlamini,Durban,KwaZulu-Natal,Savings,High (R30k+),112638.49,2021-08-30,1
+CUST00481,Taryn,Ndlovu,Durban,KwaZulu-Natal,Cheque,Low (R0-R10k),3153.39,2020-11-12,1
+CUST00482,Kavitha,Jacobs,Johannesburg,Gauteng,Cheque,Middle (R10k-R30k),22806.42,2019-08-04,0
+CUST00483,Nkosi,Pretorius,Cape Town,Western Cape,Business,Middle (R10k-R30k),10394.84,2020-10-15,1
+CUST00484,Thabo,Cele,Port Elizabeth,Eastern Cape,Business,Middle (R10k-R30k),13062.54,2019-03-18,1
+CUST00485,Hannes,Singh,Port Elizabeth,Eastern Cape,Cheque,Middle (R10k-R30k),24014.53,2020-01-20,1
+CUST00486,Brendan,Mkhize,Cape Town,Western Cape,Savings,Low (R0-R10k),8493.32,2018-07-23,1
+CUST00487,Lungelo,Nkosi,Pretoria,Gauteng,Business,Middle (R10k-R30k),18195.12,2021-10-03,1
+CUST00488,Kagiso,Zulu,Nelspruit,Mpumalanga,Business,Low (R0-R10k),3019.17,2022-01-31,0
+CUST00489,Ntombi,Pillay,Cape Town,Western Cape,Savings,Middle (R10k-R30k),12025.81,2020-05-11,0
+CUST00490,Siyanda,Nkosi,Port Elizabeth,Eastern Cape,Credit Card,Low (R0-R10k),3350.56,2020-11-25,1
+CUST00491,Nomsa,Dlamini,Bloemfontein,Free State,Savings,Middle (R10k-R30k),12318.02,2019-03-15,1
+CUST00492,Devi,Nxumalo,Bloemfontein,Free State,Cheque,Middle (R10k-R30k),18754.29,2020-10-30,1
+CUST00493,Estelle,Nxumalo,Durban,KwaZulu-Natal,Business,Low (R0-R10k),5801.75,2019-01-20,1
+CUST00494,Nkosi,Khumalo,East London,Eastern Cape,Cheque,Middle (R10k-R30k),25938.19,2018-03-09,1
+CUST00495,Ashwin,Naidoo,East London,Eastern Cape,Business,High (R30k+),73440.74,2021-11-26,1
+CUST00496,Palesa,Nel,Bloemfontein,Free State,Business,Middle (R10k-R30k),27251.52,2022-04-15,1
+CUST00497,Johan,Dlamini,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),4831.29,2019-03-02,1
+CUST00498,Wayne,Botha,Cape Town,Western Cape,Business,Middle (R10k-R30k),24533.04,2022-02-01,1
+CUST00499,Taryn,Nel,Johannesburg,Gauteng,Business,Low (R0-R10k),9540.6,2018-01-17,1
+CUST00500,Sifiso,Nkosi,Nelspruit,Mpumalanga,Savings,Low (R0-R10k),5316.26,2019-11-01,1

@@ -1,0 +1,6 @@
+# SA Banking SQL Project — Python Dependencies
+# Only needed to generate the data
+# Install with: pip install -r requirements.txt
+
+pandas>=2.1.0
+numpy>=1.26.0
